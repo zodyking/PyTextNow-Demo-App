@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/a4ead66c-87ad-40e2-9c5d-76ee4610a8a6" alt="PyTextNow Demo App Banner" width="100%"/>
+
 # 🚀 PyTextNow Demo App
 
 **A modern, feature-rich messaging application built with Next.js, integrating with TextNow API for SMS, MMS, and AI-powered voice messaging.**
