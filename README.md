@@ -50,34 +50,23 @@
 
 <div align="center">
 
-### Main Dashboard & Conversations
+### Main Interface
 
-| Dashboard View | Conversation Interface |
+| Landing Page View | Sign Up Page |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/a4ead66c-87ad-40e2-9c5d-76ee4610a8a6" alt="Dashboard" width="450"/> | <img src="https://github.com/user-attachments/assets/76df1d6e-567f-4b56-9b14-2db3ee626619" alt="Conversation View" width="450"/> |
+| <img src="https://github.com/user-attachments/assets/a4ead66c-87ad-40e2-9c5d-76ee4610a8a6" alt="Landing Page" width="450"/> | <img src="https://github.com/user-attachments/assets/76df1d6e-567f-4b56-9b14-2db3ee626619" alt="Sign Up Page" width="450"/> |
 
 ### Messaging Features
 
-| Message Interface | AI Voice Messages |
-|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/19444d4f-6bb5-4f44-b067-8dc8da9eb809" alt="Message Features" width="450"/> | <img src="https://github.com/user-attachments/assets/9fb551f5-7817-4fc7-a239-716845fb6151" alt="AI Voice Messages" width="450"/> |
+| Conversational Interface |
+|:---:|
+| <img src="https://github.com/user-attachments/assets/9fb551f5-7817-4fc7-a239-716845fb6151" alt="Conversational Interface" width="450"/> |
 
-### Settings & UI Components
+### Settings & Components
 
-| UI Components | User Settings | Additional Features |
+| Start New Convo | User Settings | AI Voice Messaging |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/3b07b95c-3904-451f-b665-7c2688f373de" alt="UI Components" width="300"/> | <img src="https://github.com/user-attachments/assets/5d8f4dda-e963-4e43-8f6d-eb9fb09438aa" alt="Settings" width="300"/> | <img src="https://github.com/user-attachments/assets/0a632e06-4af3-4396-9bd6-8ebe3c7f1bcd" alt="Additional View" width="300"/> |
-
-<details>
-<summary><b>📱 View Additional Screenshots</b></summary>
-
-<br/>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/c5a57749-8f12-41b9-aaeb-32efe7453773" alt="Additional View 2" width="600"/>
-</div>
-
-</details>
+| <img src="https://github.com/user-attachments/assets/3b07b95c-3904-451f-b665-7c2688f373de" alt="Start New Convo" width="300"/> | <img src="https://github.com/user-attachments/assets/5d8f4dda-e963-4e43-8f6d-eb9fb09438aa" alt="User Settings" width="300"/> | <img src="https://github.com/user-attachments/assets/c5a57749-8f12-41b9-aaeb-32efe7453773" alt="AI Voice Messaging" width="300"/> |
 
 </div>
 
