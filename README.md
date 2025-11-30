@@ -18,7 +18,7 @@
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [API Reference](#-api-reference) • [Contributing](#-contributing)
+[Features](#-features) • [Preview](#-preview) • [Installation](#-installation) • [Usage](#-usage) • [API Reference](#-api-reference) • [Contributing](#-contributing)
 
 </div>
 
@@ -52,6 +52,43 @@
 - **Contact Management** - Edit and customize contact names
 - **User Settings** - Manage API keys and preferences
 - **Error Handling** - Robust error handling and user feedback
+
+---
+
+## 📸 Preview
+
+<div align="center">
+
+### Main Dashboard & Conversations
+
+| Dashboard View | Conversation Interface |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/a4ead66c-87ad-40e2-9c5d-76ee4610a8a6" alt="Dashboard" width="450"/> | <img src="https://github.com/user-attachments/assets/76df1d6e-567f-4b56-9b14-2db3ee626619" alt="Conversation View" width="450"/> |
+
+### Messaging Features
+
+| Message Interface | AI Voice Messages |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/19444d4f-6bb5-4f44-b067-8dc8da9eb809" alt="Message Features" width="450"/> | <img src="https://github.com/user-attachments/assets/9fb551f5-7817-4fc7-a239-716845fb6151" alt="AI Voice Messages" width="450"/> |
+
+### Settings & UI Components
+
+| UI Components | User Settings | Additional Features |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/3b07b95c-3904-451f-b665-7c2688f373de" alt="UI Components" width="300"/> | <img src="https://github.com/user-attachments/assets/5d8f4dda-e963-4e43-8f6d-eb9fb09438aa" alt="Settings" width="300"/> | <img src="https://github.com/user-attachments/assets/0a632e06-4af3-4396-9bd6-8ebe3c7f1bcd" alt="Additional View" width="300"/> |
+
+<details>
+<summary><b>📱 View Additional Screenshots</b></summary>
+
+<br/>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/c5a57749-8f12-41b9-aaeb-32efe7453773" alt="Additional View 2" width="600"/>
+</div>
+
+</details>
+
+</div>
 
 ---
 
